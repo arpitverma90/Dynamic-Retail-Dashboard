@@ -105,7 +105,8 @@ The **Dynamic Retail Dashboard** is an interactive tool designed in Excel to vis
    - Calculate **Percentage Share**: `=Sales / Total Sales * 100`.
    - Use a **Pie** or **Donut Chart** to present the share visually.
    - Add **Labels** to show percentage values dynamically.
-   - ![image](https://github.com/user-attachments/assets/cae88329-e48c-4384-b445-e1960e6cf73b)
+   - ![image](https://github.com/user-attachments/assets/45c7c8f7-07e7-4628-8301-f7c53b41e6d9)
+
 
 
 ---
