@@ -55,6 +55,8 @@ The **Dynamic Retail Dashboard** is an interactive tool designed in Excel to vis
      - **Total Sales**: `=SUM(Sales)`.
      - **Total Profit**: `=SUM(Profit)`.
      - **Total Quantity**: `=SUM(Quantity)`.
+     - ![image](https://github.com/user-attachments/assets/06c07674-cc3c-4d9a-bde1-2426c071ed67)
+
    - Create a dynamic KPI table with visual elements like symbols (e.g., 💰 for Total Sales).
    - Here is the KPI table you requested in a simple table format:
 
@@ -76,6 +78,8 @@ The **Dynamic Retail Dashboard** is an interactive tool designed in Excel to vis
    - Add **Sales** and **Profit** as values.
    - Create a **Line Chart** to display trends.
    - Apply **Slicers** to filter data dynamically by category, market, or region.
+   - ![image](https://github.com/user-attachments/assets/01916936-9e0e-40a1-8341-9136b89fef52)
+
 
 ---
 
@@ -87,6 +91,8 @@ The **Dynamic Retail Dashboard** is an interactive tool designed in Excel to vis
    - Sort the table in descending order of Profit.
    - Create a **Bar Chart** to display the category-wise profit.
    - Use **Slicers** for interactive filtering by region or year.
+   - ![image](https://github.com/user-attachments/assets/02c9c20d-7886-4d6f-8da7-d82ab1a8f293)
+
 
 ---
 
@@ -98,6 +104,8 @@ The **Dynamic Retail Dashboard** is an interactive tool designed in Excel to vis
    - Calculate **Percentage Share**: `=Sales / Total Sales * 100`.
    - Use a **Pie** or **Donut Chart** to present the share visually.
    - Add **Labels** to show percentage values dynamically.
+   - ![image](https://github.com/user-attachments/assets/cae88329-e48c-4384-b445-e1960e6cf73b)
+
 
 ---
 
@@ -109,6 +117,8 @@ The **Dynamic Retail Dashboard** is an interactive tool designed in Excel to vis
    - Sort the table in descending order of Sales.
    - Use **Conditional Formatting** or a **Heatmap** to highlight top-performing countries.
    - Alternatively, use a **Geographic Map Chart** to visualize sales geographically.
+   - ![image](https://github.com/user-attachments/assets/1c338170-af2a-4b09-b35b-89848f5cd381)
+
 
 ---
 
@@ -120,6 +130,8 @@ The **Dynamic Retail Dashboard** is an interactive tool designed in Excel to vis
    - Sort the table in descending order of Sales.
    - Filter the data to display only the **Top 5 Subcategories**.
    - Create a **Column Chart** to visualize the results.
+   - ![image](https://github.com/user-attachments/assets/202369c5-9c2b-4974-a4be-e3584c49e4e2)
+
 
 ---
 
@@ -130,6 +142,8 @@ The **Dynamic Retail Dashboard** is an interactive tool designed in Excel to vis
    - Use the same **Pivot Table** but sort it in ascending order of Sales.
    - Filter the data to display only the **Bottom 5 Subcategories**.
    - Create a **Column Chart** with contrasting colors to emphasize low-performing subcategories.
+   - ![image](https://github.com/user-attachments/assets/1a2261c7-f7ea-44a6-b913-6d0ef8ac3bf1)
+
 
 ---
 
@@ -141,6 +155,8 @@ The **Dynamic Retail Dashboard** is an interactive tool designed in Excel to vis
    - Add **Sales** as values.
    - Create a **Line Chart** to show yearly trends.
    - Use **Slicers** to filter the data by category, region, or segment.
+   - ![image](https://github.com/user-attachments/assets/10948cb4-7c3d-47a8-b15c-2a5e8785f6f3)
+
 
 ---
 
@@ -177,7 +193,8 @@ The **Dynamic Retail Dashboard** helps businesses:
 The repository includes:
    - Visual representations for each solved problem.
    - Screenshots of the final dashboard with all components in action.
+   - ![image](https://github.com/user-attachments/assets/6da4b9dc-4397-4831-beec-eb15f856a2b3)
+
 
 ---
 
-This version retains the same structure but is phrased differently. Let me know if you'd like any further adjustments!
