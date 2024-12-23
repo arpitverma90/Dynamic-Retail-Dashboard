@@ -56,6 +56,15 @@ The **Dynamic Retail Dashboard** is an interactive tool designed in Excel to vis
      - **Total Profit**: `=SUM(Profit)`.
      - **Total Quantity**: `=SUM(Quantity)`.
    - Create a dynamic KPI table with visual elements like symbols (e.g., 💰 for Total Sales).
+   - Here is the KPI table you requested in a simple table format:
+
+| **Name**           | **Metric**             | **Symbol** |
+|--------------------|------------------------|------------|
+| **Total Sales**     | Sum of Sales           | 💰         |
+| **Total Profit**    | Sum of Profit          | 📈         |
+| **Total Quantity**  | Sum of Quantity        | 📦         |
+| **No. of Orders**   | Count of Order ID      | 🛒         |
+| **Profitability**   | Sum of Profitability   | 💹         |
 
 ---
 
