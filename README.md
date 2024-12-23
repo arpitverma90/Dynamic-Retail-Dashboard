@@ -55,7 +55,8 @@ The **Dynamic Retail Dashboard** is an interactive tool designed in Excel to vis
      - **Total Sales**: `=SUM(Sales)`.
      - **Total Profit**: `=SUM(Profit)`.
      - **Total Quantity**: `=SUM(Quantity)`.
-     - ![image](https://github.com/user-attachments/assets/06c07674-cc3c-4d9a-bde1-2426c071ed67)
+     - ![image](https://github.com/user-attachments/assets/0bcc10ed-26c1-4a80-bf07-68340ba76885)
+
 
    - Create a dynamic KPI table with visual elements like symbols (e.g., 💰 for Total Sales).
    - Here is the KPI table you requested in a simple table format:
@@ -142,7 +143,8 @@ The **Dynamic Retail Dashboard** is an interactive tool designed in Excel to vis
    - Use the same **Pivot Table** but sort it in ascending order of Sales.
    - Filter the data to display only the **Bottom 5 Subcategories**.
    - Create a **Column Chart** with contrasting colors to emphasize low-performing subcategories.
-   - ![image](https://github.com/user-attachments/assets/919aadc5-db20-40a8-a547-e9277a04b1c8)
+   - ![image](https://github.com/user-attachments/assets/deb29c4b-54cf-438c-98cf-41ce963ffb9c)
+
 
 
 
