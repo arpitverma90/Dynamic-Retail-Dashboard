@@ -80,7 +80,8 @@ The **Dynamic Retail Dashboard** is an interactive tool designed in Excel to vis
    - Add **Sales** and **Profit** as values.
    - Create a **Line Chart** to display trends.
    - Apply **Slicers** to filter data dynamically by category, market, or region.
-   - ![image](https://github.com/user-attachments/assets/01916936-9e0e-40a1-8341-9136b89fef52)
+   - ![image](https://github.com/user-attachments/assets/de0e58f1-a8b9-4121-bd2f-1e5941f153a9)
+
 
 
 ---
