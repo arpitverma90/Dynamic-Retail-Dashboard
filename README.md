@@ -153,7 +153,8 @@ The **Dynamic Retail Dashboard** is an interactive tool designed in Excel to vis
    - Filter the data to display only the **Bottom 5 Subcategories**.
    - Create a **Column Chart** with contrasting colors to emphasize low-performing subcategories.
    
-   - ![image](https://github.com/user-attachments/assets/deb29c4b-54cf-438c-98cf-41ce963ffb9c)
+   - ![image](https://github.com/user-attachments/assets/3cb4954b-4003-4bce-86b6-46f6704999bd)
+
 
 
 
