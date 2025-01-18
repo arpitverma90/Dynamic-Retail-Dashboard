@@ -110,7 +110,8 @@ The **Dynamic Retail Dashboard** is an interactive tool designed in Excel to vis
    - Use a **Pie** or **Donut Chart** to present the share visually.
    - Add **Labels** to show percentage values dynamically.
    
-   - ![image](https://github.com/user-attachments/assets/45c7c8f7-07e7-4628-8301-f7c53b41e6d9)
+   - ![image](https://github.com/user-attachments/assets/089d0fe7-da45-4ceb-bd85-562bf9c27601)
+
 
 
 
